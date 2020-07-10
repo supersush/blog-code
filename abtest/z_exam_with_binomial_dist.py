@@ -1,7 +1,6 @@
 #!/usr/bin/env python  
 #-*- coding:utf-8 -*-  
-""" 
-@author:shuai.su
+"""
 @file: z_exam_with_binomial_dist.py 
 @time: 2020-07-09 16:44
 """
